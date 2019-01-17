@@ -1,0 +1,78 @@
+ask a question from {0}
+save upto {0}
+{0} find the best deals on used {1}
+interest calculated at {0}
+recently asked user questions about {0}
+{0} comparison with similar cars
+{0} car dealers in {1}
+{0}on road price list in{1}
+compare prices of {0}
+compare specs of {0}
+explore images of {0}
+explore 360 view of {0}
+explore videos of {0}
+user reviews on {0}
+{0} ownership cost
+pros & cons of {0}
+{0} latest update
+{0} engine & transmission
+key specs of {0}
+specifications of {0}
+360º view of {0}
+expert review of {0}
+expected launch {0}
+{0} dealer in {1}
+must read articles before buying {0}
+{0} price in {1}
+{0} interior & exterior images
+write a comment on {0}
+variants of {0}
+get call from authorised {0}
+{0} interior images
+{0} specs, features and price
+show less {0}
+view all {0}
+used cars in {0}
+{0} days left
+{0} days
+{0} user reviews
+{0} videos
+{0} colours
+{0} expert reviews
+{0} service cost
+{0} spareparts
+{0} faq
+{0} emi calculator
+{0} brochures
+{0} dealers
+{0} loan
+{0} mileage
+{0} images
+{0} specifications
+{0} features
+{0} variants
+check {0}
+view {0}
+{0} offers
+{0} offer
+{0} 360 view
+{0} expert review
+{0} 360
+{0} car insurance
+{0} news
+trending {0}
+{0} road test
+{0} review
+{0} design highlights
+popular {0}
+{0} used cars
+{0}cars
+{0} price
+{0} for {1}
+{0} months
+{0} comparison
+{0} vs {1}
+{0} alternatives
+used {0}
+{0} owners
+{0} in {1}
